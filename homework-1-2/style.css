@@ -1,0 +1,41 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    font-size: 36px;
+}
+section {
+    max-width: 960px;
+    margin: 0 auto;
+}
+label {
+    margin-right: 30px;
+}
+fieldset {
+    margin-bottom: 30px;
+}
+input {
+    margin-bottom: 15px;
+}
+.last input {
+    margin-bottom: 0px;
+}
+.moreabout label {
+    margin-left: 10px;
+}
+.email-text {
+    margin-bottom: 0px;
+}
+button {
+    margin-top: 15px;
+}
+.gender-text {
+    margin-right: 10px;
+}
+.choice {
+    margin-top: 15px;
+}
+ul li {
+   list-style-type: none;
+   margin-bottom: 10px;
+}
